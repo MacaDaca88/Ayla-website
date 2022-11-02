@@ -1,0 +1,97 @@
+body {
+    background-image: url("images/gifs/BareEverlastingBettong-size_restricted.gif");
+    background-color: hotpink;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size:auto;
+    border: 10px double hotpink;
+    margin: 2px;
+    padding: 5px;
+}
+h1 {
+    display: table;
+    background-color: pink;
+    font-size: 4em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 200px;
+    margin-right: 0;
+    border: 4px double black;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}   
+h2 {
+        display: block;
+        background-color: red;
+        background-position:50px;
+        font-size: 3em;
+        text-align: center;
+        margin-top: 0em;
+        margin-bottom: 0em;
+        margin-left: 0;
+        margin-right: 0;
+        border: 4px solid black;
+        margin: 0px;
+        padding: 0px;
+        font-weight: bold;
+        font-style: italic;
+        color: white;
+        text-transform: capitalize;
+     }
+     h3 {
+        display: block;
+        background-color: pink;
+        background-position:50px;
+        opacity: 0.3;
+        font-size: 3em;
+        text-align: center;
+        margin-top: 0em;
+        margin-bottom: 0em;
+        margin-left: 0;
+        margin-right: 0;
+        border: 4px solid black;
+        margin: 0px;
+        padding: 0px;
+        font-weight: bold;
+        font-style: italic;
+        color: white;
+        text-transform: capitalize;
+     }
+     h4 {
+        display: block;
+        background-color: navy;
+        background-position:50px;
+        opacity: 0.3;
+        font-size: 3em;
+        text-align: center;
+        margin-top: 0em;
+        margin-bottom: 0em;
+        margin-left: 0;
+        margin-right: 0;
+        border: 4px solid black;
+        margin: 0px;
+        padding: 0px;
+        font-weight: bold;
+        font-style: italic;
+        color: white;
+     }
+     h6 {
+        font-size: 13em;
+        text-align: cover;
+        margin-top: em;
+        margin-bottom: em;
+        margin-left: 0;
+        margin-right: 0;
+        width:200px;
+        height:200px;
+        border: 1px solid gold;
+        margin: 5px;
+        padding: 0px;
+        font-weight: bold;
+        font-style: italic;
+        color: purple;
+    }
+
